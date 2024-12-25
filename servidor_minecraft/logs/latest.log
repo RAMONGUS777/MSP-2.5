@@ -1150,3 +1150,23 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [25Dec2024 23:16:03.383] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-14, y=-57, z=626}
 [25Dec2024 23:16:39.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [guerrero22: Teleported guerrero22 to 1000.500000, 144.000000, 2000.500000]
 [25Dec2024 23:16:39.843] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6336ms or 126 ticks behind
+[25Dec2024 23:17:58.338] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: guerrero22 lost connection: Disconnected
+[25Dec2024 23:17:58.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: guerrero22 left the game
+[25Dec2024 23:20:13.484] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: guerrero22[/127.217.150.130:45625] logged in with entity id 4947 at (1367.3130092398362, 88.65936713333112, 2306.347295269658)
+[25Dec2024 23:20:13.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: guerrero22 joined the game
+[25Dec2024 23:21:02.799] [Worker-Main-19/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-73, y=65, z=42}
+[25Dec2024 23:21:02.800] [Worker-Main-19/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-69, y=63, z=46}
+[25Dec2024 23:21:02.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: guerrero22 has reached the goal [Sky's the Limit]
+[25Dec2024 23:21:51.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: guerrero22 has made the advancement [A Flaming Sword]
+[25Dec2024 23:22:28.889] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: guerrero22 moved too quickly! 17.57156569732456,0.01775698368278711,-3.2199607910188206
+[25Dec2024 23:22:37.287] [Worker-Main-5/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=721, y=27, z=2430}
+[25Dec2024 23:22:47.664] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-355, y=26, z=-545}
+[25Dec2024 23:22:47.665] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-355, y=26, z=-541}
+[25Dec2024 23:22:49.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: guerrero22 has made the advancement [Hostile Paradise]
+[25Dec2024 23:25:46.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: guerrero22 has made the advancement [Render of Souls]
+[25Dec2024 23:25:54.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: guerrero22 has made the advancement [Lightning Strikes Twice]
+[25Dec2024 23:26:13.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: guerrero22 has made the advancement [Fire Hazard]
+[25Dec2024 23:26:38.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: guerrero22 has reached the goal [Dethroned]
+[25Dec2024 23:26:49.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: guerrero22 has reached the goal [Earning your Wings]
+[25Dec2024 23:26:50.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: guerrero22 has made the advancement [Exotic Hardware]
+[25Dec2024 23:26:53.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: guerrero22 has made the advancement [Battle Hardened]
