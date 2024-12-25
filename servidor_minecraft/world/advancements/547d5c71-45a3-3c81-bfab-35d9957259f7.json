@@ -1,153 +1,267 @@
 {
+  "simplyswords:grant_book_on_first_join": {
+    "criteria": {
+      "tick": "2024-12-25 22:25:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
-      "unlock_right_away": "2024-12-24 02:18:22 +0000"
+      "unlock_right_away": "2024-12-25 22:25:25 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
+  "mowziesmobs:root": {
     "criteria": {
-      "minecraft:frozen_river": "2024-12-24 02:55:11 +0000",
-      "minecraft:snowy_plains": "2024-12-24 02:18:23 +0000",
-      "minecraft:snowy_beach": "2024-12-24 02:55:13 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/misc/charcoal": {
-    "criteria": {
-      "has_log": "2024-12-24 02:21:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_planks": {
-    "criteria": {
-      "has_logs": "2024-12-24 02:21:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_wood": {
-    "criteria": {
-      "has_log": "2024-12-24 02:21:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_slab": {
-    "criteria": {
-      "has_planks": "2024-12-24 02:21:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/oak_sign": {
-    "criteria": {
-      "has_planks": "2024-12-24 02:21:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/oak_trapdoor": {
-    "criteria": {
-      "has_planks": "2024-12-24 02:21:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/oak_fence_gate": {
-    "criteria": {
-      "has_planks": "2024-12-24 02:21:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/oak_pressure_plate": {
-    "criteria": {
-      "has_planks": "2024-12-24 02:21:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/oak_door": {
-    "criteria": {
-      "has_planks": "2024-12-24 02:21:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/stick": {
-    "criteria": {
-      "has_planks": "2024-12-24 02:21:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_stairs": {
-    "criteria": {
-      "has_planks": "2024-12-24 02:21:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/oak_fence": {
-    "criteria": {
-      "has_planks": "2024-12-24 02:21:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/barrel": {
-    "criteria": {
-      "has_planks": "2024-12-24 02:21:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/oak_button": {
-    "criteria": {
-      "has_planks": "2024-12-24 02:21:21 +0000"
+      "custom_test_name": "2024-12-25 22:25:25 +0000"
     },
     "done": true
   },
   "incendium:technical/new_player": {
     "criteria": {
-      "requirement": "2024-12-24 02:52:45 +0000"
+      "requirement": "2024-12-25 22:25:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2024-12-25 22:25:25 +0000"
     },
     "done": true
   },
   "various_world:welcome_to_the_various_world": {
     "criteria": {
-      "welcometothe_various_world": "2024-12-24 02:52:45 +0000"
+      "welcometothe_various_world": "2024-12-25 22:25:25 +0000"
     },
     "done": true
   },
   "betterdungeons:root": {
     "criteria": {
-      "always": "2024-12-24 02:52:45 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/using/shield": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-24 02:52:47 +0000"
-    },
-    "done": false
-  },
-  "regions_unexplored:parent": {
-    "criteria": {
-      "load_in_world": "2024-12-24 02:52:47 +0000"
+      "always": "2024-12-25 22:25:25 +0000"
     },
     "done": true
   },
   "cataclysm:root": {
     "criteria": {
-      "custom_test_name": "2024-12-24 02:52:45 +0000"
+      "custom_test_name": "2024-12-25 22:25:25 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/using/shield": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-25 22:25:26 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:parent": {
+    "criteria": {
+      "load_in_world": "2024-12-25 22:25:26 +0000"
     },
     "done": true
   },
   "incendium:technical/scroll_of_returning": {
     "criteria": {
-      "log_spam_fixer": "2024-12-24 02:52:47 +0000"
+      "log_spam_fixer": "2024-12-25 22:25:26 +0000"
     },
     "done": false
   },
   "incendium:technical/using/ragnarok": {
     "criteria": {
-      "log_spam_fixer": "2024-12-24 02:52:47 +0000"
+      "log_spam_fixer": "2024-12-25 22:25:26 +0000"
     },
     "done": false
   },
   "incendium:technical/using/trailblazer": {
     "criteria": {
-      "log_spam_fixer": "2024-12-24 02:52:47 +0000"
+      "log_spam_fixer": "2024-12-25 22:25:26 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:beach": "2024-12-25 22:28:58 +0000",
+      "minecraft:lukewarm_ocean": "2024-12-25 22:28:52 +0000",
+      "minecraft:river": "2024-12-25 22:28:43 +0000",
+      "minecraft:stony_shore": "2024-12-25 22:25:26 +0000",
+      "minecraft:desert": "2024-12-25 22:36:53 +0000",
+      "minecraft:jungle": "2024-12-25 22:28:45 +0000",
+      "minecraft:warm_ocean": "2024-12-25 22:28:34 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-12-25 22:30:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-12-25 22:30:27 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/shot_gum": {
+    "criteria": {
+      "shot_gum": "2024-12-25 22:30:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-25 22:32:14 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-25 22:39:34 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-25 22:39:34 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-25 22:39:34 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-25 22:39:34 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-25 22:39:34 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-25 22:39:34 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-25 22:39:34 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-25 22:39:34 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-25 22:39:34 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-25 22:39:34 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-25 22:39:34 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-25 22:39:34 +0000"
+    },
+    "done": false
+  },
+  "aether:recipes/building_blocks/packed_ice_freezing": {
+    "criteria": {
+      "has_water_bucket": "2024-12-25 22:37:57 +0000"
+    },
+    "done": true
+  },
+  "aether:the_aether": {
+    "criteria": {
+      "the_aether": "2024-12-25 22:38:07 +0000"
+    },
+    "done": true
+  },
+  "various_world:forwardin_cristalicforest": {
+    "criteria": {
+      "forwardin_cristalicforest": "2024-12-25 22:36:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2024-12-25 22:37:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2024-12-25 22:37:57 +0000"
+    },
+    "done": true
+  },
+  "mca:root": {
+    "criteria": {
+      "village_desert": "2024-12-25 22:37:32 +0000"
+    },
+    "done": true
+  },
+  "aether:read_lore": {
+    "criteria": {
+      "lore_book_entry": "2024-12-25 22:38:13 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/blue_ice_freezing": {
+    "criteria": {
+      "has_water_bucket": "2024-12-25 22:37:57 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/ice_from_bucket_freezing": {
+    "criteria": {
+      "has_water_bucket": "2024-12-25 22:37:57 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:regions_explored": {
+    "criteria": {
+      "tropical_river": "2024-12-25 22:37:44 +0000",
+      "outback": "2024-12-25 22:37:21 +0000",
+      "saguaro_desert": "2024-12-25 22:37:04 +0000",
+      "baobab_savanna": "2024-12-25 22:36:54 +0000",
+      "redwoods": "2024-12-25 22:37:24 +0000"
+    },
+    "done": false
+  },
+  "aether:enter_aether": {
+    "criteria": {
+      "enter_aether": "2024-12-25 22:38:07 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:pioneer": {
+    "criteria": {
+      "tropical_river": "2024-12-25 22:37:44 +0000",
+      "outback": "2024-12-25 22:37:21 +0000",
+      "saguaro_desert": "2024-12-25 22:37:04 +0000",
+      "baobab_savanna": "2024-12-25 22:36:54 +0000",
+      "redwoods": "2024-12-25 22:37:24 +0000"
     },
     "done": false
   },
